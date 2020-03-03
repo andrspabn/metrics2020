@@ -1,0 +1,41 @@
+salon;grupo;lugar;semana;fecha;alimento;precio;unidades;observaciones
+1;2;exito;1;7-feb;cebolla;1430;lb;muy pocas unidades
+1;2;exito;1;7-feb;coliflor;NA;NA;no habia
+1;2;exito;1;7-feb;papa;NA;NA;no habia
+1;2;exito;1;7-feb;tomate;NA;NA;no habia
+1;2;exito;1;7-feb;zanahoria;795;lb;muy pocas unidades
+1;2;exito;1;7-feb;fresa;5860;lb; solo fresa congelada
+1;2;exito;1;7-feb;granadilla;NA;NA;no habia 
+1;2;exito;1;7-feb;lulo;2500;lb;solo lulo congelado
+1;2;exito;1;7-feb;manzana;4350;lb;NA
+1;2;exito;1;7-feb;maracuya;NA;NA;no habia 
+1;2;perseverancia;2;13-feb;cebolla;1500;lb;NA
+1;2;perseverancia;2;13-feb;coliflor;5000;unidad;NA
+1;2;perseverancia;2;13-feb;papa;800;lb;NA
+1;2;perseverancia;2;13-feb;tomate;1800;lb;NA
+1;2;perseverancia;2;13-feb;zanahoria;800;lb;NA
+1;2;perseverancia;2;13-feb;fresa;5000;lb;NA
+1;2;perseverancia;2;13-feb;granadilla;1300;unidad;NA
+1;2;perseverancia;2;13-feb;lulo;2000;lb;NA
+1;2;perseverancia;2;13-feb;manzana;1500;unidad;NA
+1;2;perseverancia;2;13-feb;maracuya;2500;lb;NA
+1;2;exito;3;21-feb;cebolla;975;lb;NA
+1;2;exito;3;21-feb;coliflor;NA;NA;NA
+1;2;exito;3;21-feb;papa;NA;NA;no habia 
+1;2;exito;3;21-feb;tomate;NA;NA;no habia 
+1;2;exito;3;21-feb;zanahoria;795;lb;NA
+1;2;exito;3;21-feb;fresa;6430;lb;NA
+1;2;exito;3;21-feb;granadilla;6475;lb;NA
+1;2;exito;3;21-feb;lulo;1745;lb;NA
+1;2;exito;3;21-feb;manzana;4045;lb;NA
+1;2;exito;3;21-feb;maracuya;3890;lb;NA
+1;2;perseverancia;4;27-feb;cebolla;1000;lb;NA
+1;2;perseverancia;4;27-feb;coliflor;5100;unidad;NA
+1;2;perseverancia;4;27-feb;papa;750;lb;NA
+1;2;perseverancia;4;27-feb;tomate;2000;lb;NA
+1;2;perseverancia;4;27-feb;zanahoria;600;lb;NA
+1;2;perseverancia;4;27-feb;fresa;5200;lb;NA
+1;2;perseverancia;4;27-feb;granadilla;1500;lb;NA
+1;2;perseverancia;4;27-feb;lulo;1800;lb;NA
+1;2;perseverancia;4;27-feb;manzana;1350;unidad;NA
+1;2;perseverancia;4;27-feb;maracuya;2700;lb;NA
